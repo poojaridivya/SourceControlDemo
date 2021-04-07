@@ -1,2 +1,0 @@
-#altering to check version control
-Select * from dbo.IncomingMorley
